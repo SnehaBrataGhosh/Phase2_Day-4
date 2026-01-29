@@ -1,0 +1,18 @@
+Lists (Q31–Q38)
+31. Create a list of 10 numbers, print sum and average.
+32. Find the largest and smallest element in a list.
+33. Remove duplicates from a list.
+34. Sort a list without using built-in sort().
+35. Reverse a list without using reverse().
+36. Find second largest number in a list.
+37. Flatten a nested list [[1,2],[3,4],[5]] into [1,2,3,4,5].
+38. Use list comprehension to generate squares of numbers 1–10.
+
+Strings Advanced (Q39–Q45)
+39. Count frequency of each character in a string.
+40. Remove all vowels from a string.
+41. Check if a string is palindrome.
+42. Check if two strings are anagrams.
+43. Find the first non-repeated character in a string.
+44. Reverse each word in a sentence: "hello world" → "olleh dlrow".
+45. Find longest word in a sentence.
